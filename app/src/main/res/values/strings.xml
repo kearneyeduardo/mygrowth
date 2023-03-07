@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">The Movie DB</string>
+    <string name="title_activity_splash">The Movie DB</string>
+    <string name="content_activity_splash">The Movie DataBase App</string>
+</resources>
